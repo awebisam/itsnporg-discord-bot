@@ -1,12 +1,10 @@
 # ITSNP Org Discord Bot
-## Created  using DiscordPY 
+
+## Created using DiscordPY
 
 [![N|Solid](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/98015329/original/ce61c5c0f153f6e940c7482d4367db8b402ab621/python-desktop-application-tkinter-pyqt-wxpython.jpg)](https://python.org)
 
-
-Features:
--
-
+## Features:
 
 - Moderation Commands like "**kick,mute,ban,tempmute,giverole,takerole,slowmode**"
 - Utilities like :
@@ -22,20 +20,14 @@ Bot uses a number of open source projects to work properly:
 - Open Weather API - https://openweathermap.org/api
 - Random API - https://some-random-api.ml/
 
-
 ## Installation
 
 This Bot requires [Python](https://python.org) to run.
 
 Install the dependencies like so.
 
-```python
-pip install discord
-pip install requests
-pip install json
-pip install nepse
-pip install asyncio
-pip install python-dotenv
+```
+pip install -r requirements.txt
 ```
 
 To Run it do
