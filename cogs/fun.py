@@ -1,8 +1,6 @@
 import discord
 from discord.ext import commands
 import datetime
-import praw
-import random
 from dotenv import load_dotenv
 from pathlib import Path
 import os
