@@ -4,7 +4,6 @@ from discord.ext import commands
 from discord.ext.commands import check
 from discord import FFmpegPCMAudio
 from discord.utils import get
-import youtube_dl
 import os
 
 class Voice(commands.Cog):
